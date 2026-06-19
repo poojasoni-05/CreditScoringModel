@@ -1,0 +1,15 @@
+Credit Scoring Model Results
+
+Logistic Regression
+Accuracy: 83.43%
+F1 Score: 0.519
+
+Decision Tree
+Accuracy: 89.17%
+F1 Score: 0.755
+
+Random Forest
+Accuracy: 93.19%
+F1 Score: 0.820
+
+Best Model: Random Forest
