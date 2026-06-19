@@ -24,6 +24,24 @@ Predict customer creditworthiness using Machine Learning.
 ## Dataset
 Credit Risk Dataset from Kaggle.
 
+## Project Workflow
+1. Data Collection
+2. Data Cleaning
+3. Feature Encoding
+4. Train-Test Split
+5. Model Training
+6. Model Evaluation
+7. Model Saving
+
+## Repository Structure
+
+```text
+dataset/
+notebooks/
+src/
+results/
+```
+
 ## Conclusion
 
 | Model | Accuracy |
